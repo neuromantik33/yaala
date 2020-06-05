@@ -1,2 +1,5 @@
 .gradle
 build
+out
+*.sh
+todo.txt
